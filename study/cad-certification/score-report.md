@@ -2,7 +2,7 @@
 
 **Certification:** ServiceNow Certified Application Developer (CAD)
 **Recorded:** 2026-10-13
-**Result:** Did not pass. Target retake date: **2026-11-12** (see [30-day study plan](study-plan-30-days.md))
+**Result:** Did not pass. Target retake date: **2026-11-12** (see [1-hour weekday plan](study-plan-1h-weekdays.md))
 
 ## Score by domain
 
@@ -40,9 +40,7 @@
 | Date | Attempt | Design | UI | Security | Automation | Ext. data | Managing | Est. overall |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 | 2026-10-13 | CAD exam attempt | 67% | 93% | 58% | 55% | 75% | 67% | ≈ 69% |
-| | Practice test (Day 7) | | | | | | | |
-| | Practice test (Day 14) | | | | | | | |
-| | Practice test (Day 21) | | | | | | | |
-| | Practice test (Day 26) | | | | | | | |
-| | Practice test (Day 28) | | | | | | | |
-| | **Exam (Day 30)** | | | | | | | |
+| 2026-10-23 | Half practice test #1 | | | | | | | |
+| 2026-10-30 | Half practice test #2 | | | | | | | |
+| 2026-11-09 | Half practice test #3 | | | | | | | |
+| 2026-11-12 | **Exam** | | | | | | | |

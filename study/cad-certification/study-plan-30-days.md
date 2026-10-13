@@ -1,5 +1,7 @@
 # 30-Day CAD Study Plan
 
+> **Only have 1 hour on weekdays?** Use the [1-hour weekday plan](study-plan-1h-weekdays.md) instead. This page is still useful for extra reading and the high-yield facts.
+
 **Goal:** Pass the ServiceNow Certified Application Developer (CAD) exam on **Day 30 (Thu 2026-11-12)**.
 **Starting point:** about 69% overall ([score report](score-report.md)). Weakest domains: Automation 55%, Security 58%.
 **Target:** at least 80% in every domain on practice tests by Day 26.
